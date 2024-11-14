@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/drawable-nodpi_sleep.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/drawable-nodpi/sleep.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/drawable-nodpi_sleeptracking.jpg.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/drawable-nodpi/sleeptracking.jpg"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/drawable-nodpi_sleepicon.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/drawable-nodpi/sleepicon.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/drawable_sleeptracking.jpg.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/drawable/sleeptracking.jpg"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.projectone.app-merged_res-41:/drawable_sleep.jpg.flat",
+        "source": "com.example.projectone.app-main-43:/drawable/sleep.jpg"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/drawable_sleepic.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/drawable/sleepic.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-merged_res-41:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/krishtenu/.gradle/daemon/7.5/com.example.projectone.app-main-43:/mipmap-mdpi/ic_launcher_foreground.png"
+    }
+]
